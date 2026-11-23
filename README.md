@@ -8,7 +8,7 @@
 
 [![版本](https://img.shields.io/badge/Release-2.2.4-b49b76?style=flat-square)](docs/使用指南.md) [![V10](https://img.shields.io/badge/V10-10.7.4-475569?style=flat-square)](#快速开始) [![魔方云](https://img.shields.io/badge/MfCloud-4.2.0-64748b?style=flat-square)](#适用范围)
 
-**[使用指南](docs/使用指南.md) · [界面预览](#界面预览) · [交流与反馈](#交流与反馈)**
+**[使用指南](docs/使用指南.md) · [界面预览](#界面预览) · [交流与反馈](#交流与反馈) · [相关项目](#相关项目)**
 
 [功能亮点](#功能亮点) · [快速开始](#快速开始) · [适用范围](#适用范围)
 
@@ -50,6 +50,16 @@
 ## 适用范围
 
 已验证环境为 V10 10.7.4、魔方云模块 4.2.0 和 PHP 7.4。支持经典网络下处于正常状态的单台云服务器主 IPv4 更换。附加 IPv4 与 IPv6 保留，VPC 和批量更换不在当前范围内。
+
+## 相关项目
+
+| 项目 | 用途 |
+| --- | --- |
+| [酷锐 A1 主题（CRA1）](https://github.com/zbxh/cra1-theme-public) | 智简魔方 V10 的官网、会员中心与购物车主题。 |
+| [赠金](https://github.com/zbxh/cr-gift-credit-showcase) | 按规则发放独立赠金，在适用订单中自选金额抵扣。 |
+| [补货订阅](https://github.com/zbxh/cr-stock-subscribe) | 开源插件，提供商品补货订阅、下架提醒和通知管理。 |
+| [产品兑换码](https://github.com/zbxh/cr-product-redeem-showcase) | 按配置创建兑换批次，客户凭码开通服务器。 |
+| [统一到期日期](https://github.com/zbxh/cr-unified-expiry-showcase) | 将多台服务器的到期日调整到同一日号，方便集中续费。 |
 
 ## 交流与反馈
 
